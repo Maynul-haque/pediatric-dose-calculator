@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ceftriaxone_iv",
+    "generic_name": "Ceftriaxone",
+    "brand_names": ["Traxon", "Ceftron", "Oricef"],
+    "formulations": ["250mg/2.5ml", "500mg/5ml", "1gm/10ml", "2gm/20ml"],
+    "dose_guideline": "50-100 mg/kg/day",
+    "frequency": "OD",
+    "calculation_shortcut": "(wt x 1) ml",
+    "special_instructions": "20-30 ml APN/BS দিয়ে Total 30ml বানাতে হবে। I/V @যত ml তত µd/min ১ ঘন্টার মধ্যে শেষ করতে হবে।"
+  },
+  {
+    "id": "ceftazidime_iv",
+    "generic_name": "Ceftazidime",
+    "brand_names": ["Tazid", "Serozid", "Cefazid"],
+    "formulations": ["250mg/5ml", "500mg/10ml", "1gm/10ml", "2gm/20ml"],
+    "dose_guideline": "100-150 mg/kg/day",
+    "frequency": "BD",
+    "calculation_shortcut": "(wt x 1) ml",
+    "special_instructions": "Coverage Gram +ve"
+  },
+  {
+    "id": "amikacin_iv",
+    "generic_name": "Amikacin",
+    "brand_names": ["Kacin", "Amibac"],
+    "formulations": ["100mg/2ml", "500mg/2ml"],
+    "dose_guideline": "15mg/kg/day",
+    "frequency": "BD",
+    "calculation_shortcut": "Wt x 0.15 ml",
+    "special_instructions": "Coverage Gram -ve, Nephrotoxic Drug"
+  },
+  {
+    "id": "gentamycin_iv",
+    "generic_name": "Gentamycin",
+    "brand_names": ["Gentin", "Intamycin", "Invigen"],
+    "formulations": ["20mg/2ml", "80mg/2ml"],
+    "dose_guideline": "5-6mg/kg/day",
+    "frequency": "<7 day's: BD, >7 day's: TDS",
+    "calculation_shortcut": "wt x 0.25 ml (BD) OR wt x 0.15 ml (TDS)",
+    "special_instructions": "20mg/2ml formulation is for Child/Neonate. 80mg/2ml is for Adult."
+  },
+  {
+    "id": "meropenem_iv",
+    "generic_name": "Meropenem",
+    "brand_names": ["Meropen", "Spacebac", "Ropenem"],
+    "formulations": ["250mg/5ml", "500mg/10ml", "1gm"],
+    "dose_guideline": "20-30mg/kg/dose",
+    "frequency": "BD/TDS",
+    "calculation_shortcut": "(wt x 0.4 or 0.8ml) + 20 ml B/S",
+    "special_instructions": "Not Recommended 0-3 mnth. Total 30ml বানাতে হবে। I/V @যত ml তত µd/min ১ ঘন্টার মধ্যে শেষ করতে হবে।"
+  },
+  {
+    "id": "phenobarbitone_iv",
+    "generic_name": "Phenobarbitone",
+    "brand_names": ["Barbit"],
+    "formulations": ["200mg/1 ml + 9ml D/W"],
+    "dose_guideline": "5 mg/kg/day",
+    "frequency": "BD 12-24hourly",
+    "calculation_shortcut": "LD = wt x 1ml I/V stat. MD = wt x 0.125 ml I/V-BD",
+    "special_instructions": ""
+  },
+  {
+    "id": "diazepam_iv_pr",
+    "generic_name": "Diazepam",
+    "brand_names": ["Sedil"],
+    "formulations": ["10mg/2ml"],
+    "dose_guideline": "0.2-0.3 mg/kg IV, 0.5 mg/kg/dose P/R (Max 10mg)",
+    "frequency": "Stat",
+    "calculation_shortcut": "wt x 0.1 ml (+3ml D/W, N/S) (P/R)",
+    "special_instructions": "Not Recommended 0-3 mnth. Cardio-respiratory Distress করে। Through rubber tube."
+  }
+]
