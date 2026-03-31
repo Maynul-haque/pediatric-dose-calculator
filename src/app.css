@@ -6,3 +6,12 @@ html, body {
   @apply bg-slate-50 text-slate-900;
   overscroll-behavior-y: none;
 }
+
+@layer utilities {
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  .pb-safe-bottom {
+    padding-bottom: max(env(safe-area-inset-bottom), 0.5rem);
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "neonatal_daily_requirements": [
+    { "age": "Day 1", "min_days": 0, "max_days": 1, "ml_kg_day": 60 },
+    { "age": "Day 2", "min_days": 1, "max_days": 2, "ml_kg_day": 80 },
+    { "age": "Day 3", "min_days": 2, "max_days": 3, "ml_kg_day": 100 },
+    { "age": "Day 4", "min_days": 3, "max_days": 4, "ml_kg_day": 120 },
+    { "age": "Day 5", "min_days": 4, "max_days": 5, "ml_kg_day": 140 },
+    { "age": "Day 6 to 9 months", "min_days": 5, "max_months": 9, "ml_kg_day": 150 }
+  ],
+  "pediatric_brackets": [
+    { "age_range": "9m-1 yr", "min_months": 9, "max_months": 12, "ml_kg_day_min": 120, "ml_kg_day_max": 150 },
+    { "age_range": "1-2 yr", "min_months": 12, "max_months": 24, "ml_kg_day_min": 100, "ml_kg_day_max": 120 },
+    { "age_range": "2-4 yr", "min_months": 24, "max_months": 48, "ml_kg_day_min": 90, "ml_kg_day_max": 100 },
+    { "age_range": "4-8 yr", "min_months": 48, "max_months": 96, "ml_kg_day_min": 70, "ml_kg_day_max": 90 },
+    { "age_range": "8-12 yr", "min_months": 96, "max_months": 144, "ml_kg_day_min": 60, "ml_kg_day_max": 70 }
+  ],
+  "adjustments": {
+    "increase_20_percent": ["Fever", "Phototherapy", "Burn or open wound"],
+    "decrease_20_percent": ["PNA (Perinatal Asphyxia)", "Sepsis", "NEC", "SIADH", "Meningitis", "Head Injury"]
+  },
+  "fluid_types": [
+    { "condition": "Day 1, Wt >1kg", "fluid": "10% DA", "content": "10% glucose" },
+    { "condition": "Day 1, Wt <1kg", "fluid": "5% DA", "content": "5% glucose" },
+    { "condition": "Day 2 to 2 years, Wt >1kg", "fluid": "10% DBS / Electrodex 10 / APN", "content": "10% DA + 0.225% NaCl" },
+    { "condition": "Day 2 to 2 years, Wt <1kg", "fluid": "Baby Saline", "content": "5% DA + 0.225% NaCl" },
+    { "condition": "2-5 Years", "fluid": "Baby Saline", "content": "5% DA + 0.225% NaCl" },
+    { "condition": ">5 years", "fluid": "Libott's Junior", "content": "5% glucose + 0.45% Na" },
+    { "condition": ">11 years", "fluid": "Adult fluid", "content": "5% DNS, 5% DA, H/S, N/S" }
+  ]
+}
