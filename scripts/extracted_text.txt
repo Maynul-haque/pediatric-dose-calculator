@@ -1,0 +1,1738 @@
+
+
+
+
+
+
+Drug Name Formulation Dose
+Ceftrixone
+(Traxon, Ceftron, Oricef)
+
+
+250mg/2.5ml
+500mg/5ml
+1gm/10ml
+2gm/20ml
+50-100 mg/kg/day
+(wt × 1)ml –OD
+20-30 ml APN/BS দিয়ে Total 30ml বানায়ে হয়ব।
+I/V @যে ml েে μd/min
+১ ঘন্টার ময়যে শেষ করয়ে হয়ব।
+Ceftazidime
+(Tazid, Serozid,Cefazid)
+250mg/5ml
+500mg/10ml
+1gm/10ml
+2gm/20ml
+100-150 mg/kg/day
+(wt × 1) ml -BD
+Coverage Gram +ve
+Amikacin
+(Kacin,Amibac)
+100mg/2ml
+500mg/2ml
+15mg/kg/day
+Wt × 0.15 ml -BD
+Coverage Gram –ve, Naphrotoxic Drug
+Flucloxacillin
+(Fluclox, Flux, Phylopen)
+250mg/2.5ml
+500mg/5ml
+1gm
+25 mg/kg/dose
+wt ×0.25ml+ 5 D/W -QDS
+
+Amoxicillin
+(Moxin, Moxacil, Fimoxyl)
+250mg,500mg 50-100mg/kg/day- TDS
+wt×0.5 ml- TDS
+Amoxicillin + Clavunic Acid
+(Moxaclav, Clacido)
+1.2gm/20ml 50-100mg/kg/day- TDS
+wt×0.5 ml- TDS
+Ampicillin
+(Pen-A, Ampirex, Ampexin)
+250mg, 500 mg Neonate: 50mg/kg/day-BD
+Children: 100mg/kg/day-BD
+Gentamycin
+(Gentin, Intamycin, Invigen)
+20mg/2ml (Child/Neonate)
+80mg/2ml (Adult)
+5-6mg/kg/day
+wt×0.25 ml- BD
+wt×0.15 ml- TDS
+Cefotaxime
+(Maxcef, Cefotax, Taxim)
+250mg/5ml
+500mg/10ml
+1mg/20ml
+60mg/kg/dose
+(wt × 1)
+<7day’s: BD
+>7day’s: TDS
+Cefuroxime
+(Cefotil, Sefur, Kilbac)
+750mg/10ml,
+1.5gm
+Neonate: 40-100mg/kg/day-BD
+(wt × 0.4 ml) BD.
+Children: 200-240mg/kg/day-TDS
+(wt × 0.9 ml) TDS
+Meropenem
+(Meropen, Spacebac, Ropenem)
+250mg/5ml
+500mg/10ml
+1gm
+(Not Recommended 0-3 mnth)
+20-30mg/kg/dose
+Child: (wt × 0.4 or 0.8ml) + 20 ml B/S – BD/TDS
+Total 30ml বানায়ে হয়ব।
+I/V @যে ml েে μd/min
+১ ঘন্টার ময়যে শেষ করয়ে হয়ব।
+Vancomycin
+(Vancomin, Covan)
+500mg/10ml
+1gm/20ml
+60mg/kg/day, Meningitis: 15mg/kg/dose
+Child: wt × 0.4ml + 20 ml DW– TDS
+Total 20ml বানায়ে হয়ব।
+I/V @যে ml েে μd/min
+১ ঘন্টার ময়যে শেষ করয়ে হয়ব।
+Ciprofloxacin
+(Ciprocin, Cipro, Neofloxin)
+200mg/100ml 15-20mg/kg/day- BD
+(wt × 5 ml) BD
+Metronidazole
+(Filmet, Metro, Amodis)
+500mg/100ml
+15-20mg/kg/day- TDS
+(wt × 1.5 ml) TDS
+QuickRx
+Apps Download From Play Store
+
+
+Pediatrics Inj. Drug Dose
+
+
+
+Hydrocortisone
+(Cotson, Glucort)
+100mg/2ml
+5 mg/kg/dose- TDS
+(wt × 0.1 ml) – BD/TDS/QDS
+Furosemide
+(Lasix, Fusid)
+20mg/2ml
+1-2mg/kg/dose
+(wt × 0.1 ml) – BD (8 AM & 4 PM)
+Dexamethasone
+(Roxadex, Decason)
+5mg/ml
+0.15-0.4mg/kg/dose –TDS/QDS (Meningitis)
+(wt × 0.03 ml- TDS/QDS) >3mnth
+(wt × 0.08 ml- BD) <3mnth
+Phenobarbitone
+(Barbit)
+200mg/1ml+9ml D/W
+
+5mg/kg/day BD 12-24hourly
+LD= wt× 1ml I/V stat
+MD= wt× 0.125 ml wt× 0.125 ml wt× 0.125 ml
+or wt÷ 8 ml I/V- BD
+SOS: LD÷2 ml I/V stat&sos
+Fosphenytoin
+(Fosphen)
+150mg/2ml+8ml N/S LD= wt× 1ml I/V stat (20-30mg/kg/dose over 15min)
+MD= wt× 0.25 ml I/V- BD (3-4mg/kg/dose over 15min)
+** Add Same Amount N/S then give Double Micro Drop/ min.**
+Diazepam
+(Sedil)
+10mg/2ml
+(Not Recommended 0-3 mnth)
+Cardio-respiratory Distress করে।
+0.2-0.3 mg/kg IV, 0.5 mg/kg/dose P/R (Max 10mg)
+wt × 0.1 ml (+3ml D/W, N/S) (P/R)- Stat
+Through rubber tube
+Ondansetron
+(Emistat, Anset, Zofra)
+8mg/4ml
+0.15mg/kg/dose
+(wt × 0.08 ml) –TDS
+Pheniramine Meleate
+(Avil, Amarin)
+45.5mg/2ml
+3mg/kg/day
+(wt × 0.1 ml) I/M Stat/OD
+Tiemonium Methylsulphate
+(Viset, Algin, Visceral)
+5mg/2ml (wt× 0.05 ml) I/V –TDS
+Famotidine
+(Peptid)
+10mg/1ml
+1-2mg/kg/day
+(wt× 0.05 ml) IV BD
+
+Calcium gluconate
+(Hypocalcemia/ater 3 unit blood
+transfusion)
+500mg/5ml
+1gm/10 ml
+50-70mg/kg/day
+wt× 1 ml+Same Amount D/W
+iv very slowly over 15-20 min @ 8μd/min
+Vitamin K1 (Konakion)
+(K-One MM, K-One)
+2mg/0.2ml (Neonate)
+2mg orally or 1mg IV/IM within 4hours of birth.
+10mg/2ml (Adult)
+1 amp P/O stat, Then D4,D28
+or ½ amp I/V stat, or 1amp I/M stat.
+(After Birth/if PT>15 sec)
+Omeprazole
+(Seclo, Omep)
+20mg/5ml
+40mg/10ml
+0.6-0.7 mg/kg/day  bd
+(wt× 0.2ml) IV OD/ OD
+Aminophylline
+(Filin)
+125mg/5ml
+2.5mg/kg/dose
+LD= (wt× 0.2ml)+3-4cc D/W stat
+MD= (wt× 0.1ml)+3-4cc D/W BD
+Apnoea (20sec শ্বাস আটয়ক থাকয়ে) Bradicardia,Cyanosis
+Dopamin 200mg/5ml
+1-20 mcg/kg/min
+0.5 ml (in neonate) in each 100 ml fluid
+Fluid According to age.
+Then give IV @6-10 μd/min
+Adrenalin  1mg/ml 1ml dilute with 9ml D/W
+then again 1ml dilute with 9ml d/w
+then give 1ml/kg/day
+Sodium bi carbonate
+(Sodi bi carb)
+7.5% 1ml dilute with 9ml amount 10%DA
+then 1ml/kg/dose
+Clindamycin
+(Clinacyn,Clindax)
+300mg/2ml
+600mg/4ml
+20-40mg/kg/day- TDS/QDS
+(wt × 0.1 ml) I/V TDS.
+Levofloxacin
+(Levoflox)
+500mg/100 ml 10-20 mg/kg/dose-OD
+(wt × 4 ml) I/V OD. [I/V @যে ml েে μd/min]
+
+
+
+Cefepime
+(Ceftipime, Megapime)
+500 mg/5ml
+1gm/10ml
+2gm/20ml
+100 mg/kg/day
+(wt×0.5ml) IV BD
+
+Acyclovir
+(virux,xovir)
+
+250mg/10ml
+
+0.4 ml/Kg/Dose –TDS, 10mg/kg/dose- TDS
+Mixed with (wt×2ml) DW/NS complete within1hour
+250mg/50ml
+500mg/100ml
+(wt×2ml) IV TDS
+Antivenom
+(Polyvalent Antivenom)
+
+6.7ml/vial
+
+
+10 vial dilute with (10x10 =100 ml D/W)
+then further dilute with 100 ml DA,DNS,NS
+Total 200ml, Then give IV over 1 hr.
+IV @ 40-50 D/min
+Prlidoxime
+(Pralidox)
+1000mg/1ml
+20-50mg/kg/Dose
+wt × 0.02-0.03 ml TDS (Mixed with IV fluid & Given Drip)
+Atropine 0.6 mg/1 ml
+0.05 mg/kg
+LD:(wt×0.08ml)
+iv & repeated every 10-15 min to a max 2-3 mg
+till  pupil  full  dilated(Atropinization)  then  dose
+gradually tapered &maintained at least 2-3 days.
+MD: 0.03- mg/kg
+Pralidoxime
+(Pradox, Pralidot)
+(500mg/10ml)
+30mg/kg/TDS
+(wt×0.5ml)+20ml B/S IV over 30 min
+Benzathine penicilline
+G-Benzathine penicillin:6,12 lac U
+<30 kg-6 lac&
+>30kg:12 lac U IM single dose
+Benzyl Penicillin Penicillin-G Sodium 5,10 lac U 1 lac U/kg/day  iv 6hrly for 10-14 d in Tetanus
+HepatitisB Vaccine
+(Engerix-B)
+(10mcg/0.5ml)
+(20mcg/1ml)
+0.5 ml IM anterolateral aspect of (Right
+thigh) within 12 hr.
+HepatitisB IG
+(Hepabig)
+(100 IU/0.5ml)
+(200 IU/1ml)
+0.5 ml IM anterolateral aspect of (left thigh)
+within 12 hr.
+Immunoglobulin (IVIG) 0.5g(10 ml )
+2.5g(50 ml)
+5 gm
+1ml=50mg plasma protein
+Neonate : 5 ml/kg - 3 day
+                1.7 ml/kg/hr over 3hr
+Children: same but if immunocompromised
+3-5 ml/kg weekly; 0.4 ml/kg/hr over 12.5hr
+Magnesium (MgSO4)
+(Nalepsin, Magsulf)
+4gm/100ml 25-50mg/kg/dose IV TDS for 2-3 Dose
+MD: 30-60mg/kg/day
+Child: 100-200mg/kg/Dose QDS
+Mannitol 20% -500ml
+(20gm in 100ml)
+1-2 gm/kg/day (5-7.5 ml/kg/day)
+(wt×5ml) Complete Within ½ hr
+Midazolam
+(Hypnofast, Dormitol)
+ 5mg/1ml
+15mg/3ml
+0.2-0.3mg/kg (for sedation: 0.05-0.15 mg/kg)
+(wt×0.02ml)+ (diluted 3ml D/W) for any
+procedure.
+TIG
+(Vaxitet-IG)
+3000 IU/ml (I/M)
+Prophylaxis:4 U/kg
+Tetanus:Infant-500 U
+               Children:3000-6000 U
+TT
+(TT Vax, Vaxitet)
+(40 IU/0.5ml) 1 amp IM Stat
+Procaine penicillin
+(Pronapen)
+40 lac 25000-50000 U/kg  bd im for 14 days
+
+
+
+Diclofenac Sodium 75mg/3ml
+3 mg/kg/day
+(wt×0.04ml)  IM-TDS
+Ketorolac
+(Rolac, Torax, Todol)
+10mg/ml
+30mg/ml
+60mg/ml
+< 10 kg: 10mg 1 amp (0.5-1mg/kg/dose)
+10-20kg: 30mg 1/2 amp
+>20kg: 30mg 1amp
+IM/IV-BD/TDS (if given iv must dialute)
+Rabies vaccine
+Rabipur
+2.5 IU/ml 0.1 ml/dose in both arm I/D at Day-0,3,7 &28
+Rabies IG
+Rabix IG
+ Single dose in around the lesion & also IM
+(it also use 3
+rd
+ degree lesion)
+Pethidine
+Pehidine-R
+100mg/2ml (wt×2unit)  in 100 unit insulin syringe IM-
+SOS/BD/TDS
+Tranexamic acid
+Traxyl, Xamic
+500mg/5ml
+25 mg/kg- BD
+(wt×0.25 ml) IV BD
+Clarithromycin
+Klaricid
+500mg/10ml
+15 mg/kg/day
+(wt×0.15 ml) + 10 ml  B/S  IV- BD
+Teicoplanin
+Ticoplan
+200mg/3ml
+400mg/6ml
+LD: 10 mg/kg/BD 3dose, MD: 6mg/kg/OD
+LD: (wt×0.15) + 10 ml  B/S  IV- BD..3dose
+MD: (wt×0.1) + 10 ml  B/S  IV- OD..7days
+Cefepime
+Levoxin, Evo
+500mg/100ml (wt×2 ml) IV OD
+I/V @যে ml েে μd/min
+Human Albumin 25%
+Albutein 25%,
+25gm/100ml
+1gm/kg/day
+(wt×4 ml) IV stat
+I/V @যে ml েে μd/min
+Midazolam
+Milam
+15gm/3ml
+0.15-0.2gm/kg/day
+(wt×0.4 ml) IM stat & SOS
+Linezolid
+Arlin
+600mg/300ml
+10mg /kg/dose
+(wt×5 ml) IV TDS
+Levetiracetam
+Iracet
+500mg/5ml
+10mg /kg
+(wt×0.1 ml) IV BD
+
+
+
+
+
+   Name of drugs     Dose  Strength/tsf  Frequency
+Amoxicillin 20-50 mg/kg/day  125 mg  TDS
+Amoxicillin + Clavulanic Acid 20-50 mg/kg/day  125+31.25mg  TDS
+Cefpodoxime  10 mg/kg/day  40 mg  BD
+Cefuroxime+ Clavulanic Acid 20-30 mg/kg/day  125 mg  BD
+Cephradine  50-100 mg/kg/day  125 mg  TDS
+Chloroquine 10 mg/kg  D1 &D2 then 5mg/kg in D3  80 mg  OD
+Co-trimoxazole  10 mg/kg/day  40mg  BD
+Flucloxacilline  50-100 mg/kg/day  125 mg  QDS
+Paracetamol  15mg/kg/dose 120 mg  TDS/QDS
+Phenobarbitone  5 mg/kg/day  20 mg  BD
+Potassium (KT) 1-2 mg/kg/day
+½ TSF+5 TSF water (If age <1 year)
+1 TSF+10 TSF water (If age >1 year)
+6.7 mmo/c  BD/TDS
+Cotrim 10mg/kg/day 240mg BD
+Cefpodoxime 10mg/kg/day 40mg BD
+Mefenamic Acid 8mg/kg/dose 50 mg BD/TDS
+  Cefpodoxime    10 mg/kg/day   40mg   BD
+  Lactulose   40mg   TDS
+  Cefadroxil    30-50 mg/kg/day   125mg   BD
+
+
+
+
+
+
+
+
+1 TSF per 8 kg weight / dose
+
+
+
+
+
+   Name of drugs     Dose  Strength/tsf  Frequenay
+Azithromycin 10mg/kg/day (Enteric Fever 20mg/kg/day) 200 mg  OD
+Carbamazepine  10 mg/kg/day  100 mg  BD
+Cefixime  10mg/kg/day (Enteric Fever 20mg/kg/day) 100 mg  BD
+Ciprofloxacin  15-30 mg/kg/day  250 mg  BD
+Clarithromycin  15 mg/kg/day 125 mg  BD
+Clindamycin   8-20 mg/kg/day  75 mg  TDS/QDS
+Doxophylline  12 mg/kg/day  100 mg  BD
+Iron  3-6 mg/kg/day  50 mg  OD
+Metronidazole  15-30 mg/kg/day  200 mg  TDS
+Naproxen  5 mg/kg/dose  125 mg  BD
+Nitrofurantoin  3-7 mg/kg/day  25 mg  QDS
+Piracetam  50 mg/kg/day  500 mg  BD/TDS
+Sodium valproate  10-20 mg/kg/day  200 mg  BD
+Multivitamin
+(Filwel Kids, Pogo)
+Naunehal (Hamdard)
+ 1tsf/5ml OD
+Ambroxol HCL  15mg BD/TDS
+Salbutamol  0.4 mg/kg/day 15mg TDS
+Levosalbutamo 0.1 mg/kg/day 1mg TDS
+Ketotifen   1mg BD
+Chlorpheniramine Maleate  2mg BD/TDS
+Desloratidine  2.5mg OD
+Rupatidine  5 mg  OD
+Theophylline  10-20 mg/kg/day  120 mg  BD
+Sodium valporate 10-20 mg/kg/day 200mg BD
+Sodium Picosulphate 0.25 mg/kg/day 5mg OD
+Butamirate Citrate  7.5mg TDS
+Phenoxymethyl Penicillin 50 mg/kg/day  250mg QDS
+Baclofen 0.25 mg/kg/dose 5mg TDS
+Desloratadine  2.5mg OD
+Rupatadine  5mg OD
+½  tsf per 10kg weight/dose
+
+
+
+Ferrous fumarate  100mg OD/BD
+Iron Polymaltose Complex 3.33mg/kg/day 50mg OD/BD
+Ferrous sulphate  200mg OD/BD
+Deflazacort 0.6 mg/kg/day 6mg BD
+
+1 TSF per 10 kg weight / dose:
+   Name of drugs     Dose  Strength/tsf  Frequenay
+Acyclovir  20 mg/kg/day  200 mg  QDS
+Ceftibuten  9 mg/kg/day  90 mg  OD
+Erythromycin 40-50 mg/kg/day  125 mg  QDS
+Ibuprofen  15-20 mg/kg/day  100 mg  BD/TDS
+Levofloxacin  10-20 mg/kg/day  125 mg  OD
+Nitazoxanide  10mg/kg/dose 100 mg  BD
+Penicillin  25-50 mg/kg/day  125 mg  QDS
+Prednisolone  1-2 mg/kg/day  5 mg  BD/TDS
+Zinc  0.5-1 mg/kg/day  10 mg  BD
+Fluconazole  3-6 mg/kg/day  50 mg  OD
+Fexofenadine HCL  30 mg OD
+Cetrizine hydrochloride  5mg OD
+Domperidone  0.2-0.4 mg/kg/dose 5 mg  TDS
+Linezolid 10 mg/kg/dose 100mg BD/TDS
+Dicycloverine  10mg TDS
+Cephalexin  125mg BD
+
+
+
+
+
+
+
+
+Download QuickRx Apps from PlayStore
+QuickRx is a complete Patient Management Guideline Software
+If any Typing Mistake Please contact with Us via Whats APP/ Call: 01623-875729
+
+
+
+
+
+   Name of drugs     Dose  Strength/tsf  Frequenay
+Pyrantel Pamoate
+(Delentin, Melphin)
+½ TSF/12 kg  before meal
+1 TSF/25 kg  before meal
+50mg Single Dose
+Levamisole
+(Etrax, Vermicom)
+1 TSF/13 kg before meal
+3 mg/kg single dose
+40mg Single Dose
+Albendazole
+(Alben, Alphin)
+1 TSF/13 kg >2years before meal 200mg Single Dose
+Ondansetron
+(Emistat, Anset)
+0.15 mg/kg/dose
+1 TSF/25 kg  before meal
+4 mg  TDS
+Famoditine
+(Famotack, Servipep)
+0.5 mg/kg/dose
+½ TSF/20 kg  before meal
+40 mg  BD
+Tiemonium Methylsulphate
+(Algin, Viset)
+2 mg/kg/dose
+1 TSF/ 5kg
+10 mg  TDS
+Folic Acid
+(B-9, Folic Kidz)
+0.5 mg/kg/dose
+1 TSF/ 5kg or 1ml/kg
+2.5mg OD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other’s Syrup Dose
+Download QuickRx Apps from PlayStore
+QuickRx is a complete Patient Management Guideline Software
+If any Typing Mistake Please contact with Us via Whats APP/ Call: 01623-875729
+
+
+
+
+
+
+Name of drugs  Dose  Amount
+(drop) Per Kg
+Strength (per
+ml)
+Frequenay
+Cefaclor (Drop)  20-40 mg/kg/day  2  100 mg BD/TDS
+Cefpodoxime (Drop)  10 mg/kg/day  4   20 mg BD
+Domperidone (Drop)  0.2-0.4 mg/kg/day  1  5 mg  TDS
+Frusemide (Syp)  1-4 mg/kg/day  8 (.5 ml)  8 mg  OD
+Iron Polymaltose Complex 1-3 mg/kg/day  1  50 mg  OD
+Levetiracetam Syp  20 mg/kg/day  1.5 (0.1ml)  100 mg  BD
+Multivitamin drop  10-15 drop   2    OD/BD
+Vitamin B Complex  1  BD
+Oxcarbazepine (Syp)  10-20 mg/kg/day  1.5 (0.1 ml)  60 mg  BD
+Paracetamol (Drop)  10-15 mg/kg/day  3 (0.2ml)  80mg  TDS/QDS
+Phenobarbitone (Syp)  5 mg/kg/day  1  4 mg  OD /BD
+Ranitidine( Syp)  2-4 mg/kg/day  3 (0.2ml)  15 mg  BD
+Cefixime  10 mg/kg/day
+(Enteric Fever 20mg/kg/day)
+3  (0.2ml) 25mg BD
+Simethicone
+(Flacol, Pedigas)
+<2years: 20mg/dose (0.3ml/5drops)
+>2years: 40mg/dose (0.6ml/10drops)
+2 67mg TDS/QDS
+Amoxicillin 20-50 mg/kg/day (wt× 2) +2 125mg/1.2ml TDS
+Normal Saline N/D
+(Norsol, Happysol)
+0.9% Sodium Chloride 2 0.9gm/10 ml TDS/QDS
+Lomefloxacin E/D
+(Mexlo)
+ 1 drop Each Eye 0.3% TDS
+Moxifloxacin E/D  1 drop Each Eye 0.5% TDS/QDS
+Chloramphenicol E/D  1 drop Each Eye 0.5% TDS
+Sodium Picosulphate (Syp) 0.25ml/kg/day 4  OD
+Butamirate Citrate  2 5mg TDS/QDS
+Desloratadine  3 0.5mg OD
+Cetrizine  3 2.5mg OD
+Erythromycin 40-50 mg/kg/day  3 (0.3ml) 50mg/1.25ml QDS
+Cephradine  2 125mg/1.2ml QDS
+Cefadroxil  3 125mg/1.25ml BD
+Cephalexin  2 125mg/1.2ml BD
+Ambroxol HCL  2 6mg BD
+Normal Saline Nasal Drop
+2 Drops Each Nostril
+ TDS/QDS
+Drop per kg weight/ Dose
+
+
+
+❏ Syrup according to Age/ Wt:
+
+Vit B complex :
+Upto 1yr: ½
+
+tsf BD
+1-5yrs: 1 tsf BD
+>5yrs: 1 tsf TDS
+
+Cetrizine Dihydrochloride:
+Upto 1yr: ½ tsf BD
+1-5yrs: ½ tsf TDS
+>5yrs: 1 tsf TDS
+
+Levamisole:
+1-4yrs : 1 tsf (1tab) OD
+5-12yrs: 2 tsf (2tab) OD
+>12yrs: 3 tsf (3tab) OD
+
+Albendazole:  National Guideline > 2years safe.
+>1 <2yrs: 1 tsf OD
+>2yrs: 2tsf OD
+2yrs –adult: 400mg single dose
+<2yrs : 200mg single dose
+<1yrs :not recommended
+Tab.estazol 400mg
+Syp.estazol 200mg/tsf ( 10ml bottle)
+
+Fexofenadine:
+6mt-2yrs: ½ tsf BD
+2yr-12yrs: 1 tsf BD
+>12yrs: 2 tsf OD or 60mg Tab OD
+
+Bromhexine HCl:
+6mt to 1yr: 2-3ml BD.
+1-5yrs: 1 tsf BD.
+5-10yrs: 1 tsf TDS/QDS.
+
+Iron Hydroxide polymaltose :
+Paediatrics drop in Infants (5-10kg) : 8 to 15drops Daily.
+Infants (5-10kg) : ½ to 1tsf daily.
+Child 2-6yrs : 1tsf OD/BD
+Child 6-12yrs: 1 to 2tsf OD/BD
+
+
+
+Acyclovir:
+Upto 2yr: ½ tsf 5times daily.
+Child >2yr: 1 tsf 5times daily.
+
+Herbisol/Pepnor:
+Upto 6mts: ½ tsf BD/TDS.
+6-12mts: 1tsf BD/TDS/QDS.
+>1yr: 1-2 tsf TDS/QDS.
+
+Tifal:
+Upto 6mts: ½ tsf BD/TDS.
+6-12mts: 1 tsf TDS.
+>1yr: 1-2 tsf TDS/QDS.
+
+Alkuli:
+Upto 6mts: ½ tsf BD.
+6-12mts: 1 tsf BD.
+>1yr: 1-2 tsf BD/QDS.
+Vitamin A :
+Upto 6mt: 50,000IU/dose.
+6mt-1yr: 1 Lac IU/dose.
+>1yr: 2 Lac IU/dose.
+It should be given orally on 2 successive days & a 3
+rd
+ dose to be given at least 2 weeks later.
+
+Vitamin C:  Scurvy: 250-500mg/day, Thalassemia: 100mg Daily.
+Upto 4yrs: 1 TSF BD
+4-12yrs: 2 TSF BD
+>12yrs: 1 tablet BD
+Tab. Ceevit 250mg,500mg, 1gm, Syp. 100mg/5ml, inj, 500mg/5ml
+
+Vitamin D:
+Child in simple Vit-D deficiency- 400IU daily.
+
+Vitamin E:
+Child: 1-10mg/kg/day.
+
+Vitamin K:
+Dose: 0.2mg/kg/dose
+2mg orally or 1mg IV/IM within 4hours of birth. If given orally repeat the dose on day
+4
+ & day
+28
+.
+
+
+
+
+
+
+Vitamin A+D+E (Cod liver oil):
+Upto 1yr: ½ tsf OD
+1-5yrs: 1 tsf OD
+5-12yrs: 1½ tsf OD
+
+Vitamin B+Zinc:
+Upto 1yr: ½
+
+tsf BD
+1-5yrs: 1 tsf BD
+>5yrs: 1 tsf TDS
+
+Vit C+Vit D+Calcium:
+Infants: As advised by physician.
+Child 3-7yrs: ½ Tab daily.
+
+Folic Acid:
+1st day-1Tab Then 1/4
+th
+Tab OD. Another Dose: 0.2mg/kg/day PO (single dose)
+Riboflavin: Child : 5-10mg 2-3times daily.
+Thiamine:  Child: 5-20mg daily.
+Pyridoxine:  Child: 20-25mg upto 3times daily
+
+Zinc: 0.5-1mg/kg/day bd
+<6mt:10mg/day BD for 14days.
+>6mt: 20mg/day BD for 14 days.
+
+   Artimether+Lumefantrine:Lumertam/Coartem;20/120 mg
+5-14 kg: 1 tab
+15-24 kg:2 tab
+25-34 kg:3 tab
+>35 kg:4 tab
+1st dose:0hr ; 2nd dose: after 8 hr ; 3rd dose: after 16 hr ;next 3 doses:12 hrly.
+***Contra indication : <5kg &1st trimester
+
+Aspirin: Tab. Ecoprin 75,150,300 mg
+30-60mg/kg/day 6hrly
+In JRA-60-100mg/kg/day 6hrly
+
+Baclofen: 1 tab=10mg
+0.25mg/kg/dose–t.d.s  [upto 40mg/day]
+
+Captopril: 25mg & 50 mg tab
+Infant: 0.15-0.3 mg/kg/day 8-12 hourly
+Children: 0.1-0.5 mg/kg/day 8-12 hourly
+
+
+
+
+Clonazepam: 1tab=0.5mg, 1mg, 2mg
+0.01-0.03 mg/kg/day 2-3 devided Dose. (Max dose: 0.5 mg/kg/day)
+
+Cyclophosphamide: Endoxan 50mg tab;250,500mg, 1gm inj
+3mg/kg/day od-12 wks
+[ with alternate day prednisolone (.5mg/kg/day-1 yr)]
+
+Deferiprone: Kelfer 250,500 mg cap
+25mg/kg TDS
+
+Dicycloverine HCL:
+6 month to 1years: ½ tsf –t.d.s
+1-10 years: 1 tsf –t.d.s
+>10 years: 2 tsf –t.d.s
+
+Digoxin: 0.04mg/kg/dose –o.d (1tab=0.25mg)
+
+Diphenhydramine: 6.25—25mg  3-4 times daily
+1-5 years: ½ tsf- t.d.s
+5-12 years: 1 tsf- t.d.s
+
+Enalaprile: 5mg & 10 mg tab
+0.08 mg/kg/day 12-24 hourly (up to max 1mg mg/kg/day)
+
+Factor VIII: Aphanate 250,500 IU;10-15 IU/kg in mild hge/in prophylaxis
+
+Hydrochlorthiazide: 25mg & 50 mg tab
+<6 month: Upto 3 mg/kg/day 12 hourly
+>6 month: 1-4 mg/kg/day 12 hourly
+
+Imotil-2mg: >8 years 1 cap –o.d
+
+
+
+Lactulose:
+<1 years: ½ tsf –b.d
+1-5 years: 1 tsf –b.d
+5-12 years: 2 tsf –b.d
+
+Mebendazole:
+1 tsf b.d for 3 days
+2yrs –adult: 100mg twice daily for 3 consecutive days.
+<2yrs :not recommended
+Tab. 100mg
+Syp.ermox 100mg/tsf (30ml bottle)
+
+
+
+
+Miconazole:
+<2 years: ½ tsf –b.d
+2-6 years: 1 tsf b.d
+>6 years: 1tsf –q.d.s
+
+Monera:
+2-5 years: ½ tsf -b.d or t.d.s
+6-12 years: 1 tsf –b.d or t.d.s
+Montelukast:
+6month-5yrs : 4mg –o.d
+5-12 years: 5 mg –o.d
+>12 years: 10 –o.d
+Tab.montene 4mg.5mg.10mg.
+
+Nifedipine: 0.2-0.5 mg/kg/dose (1 tab=10mg)
+Nystatin drop: Nystat Oral  Drop
+Prophylaxis in neonates- 1ml Daily (5drops TDS)
+Child- 1ml QDS for 3day (upto 12 years)
+
+Pivmecillinam: 20-60mg/kg/day- t.d.s (1tab=200mg)
+Falciparum: At the end of Rx single dose 0.75 mg/kg
+Vivax: 0.3 mg/kg daily for 14 days.
+Probio capsule: Cap.Acteria, Cap.GoodGut  1-2 cap t.d.s
+Propanolol: 10 mg, 40 mg & 80 mg tab
+0.5-1 mg/kg/day 6-8 hourly; May up to 2.5 mg/kg/day
+Pyrental pamote :  6month – 12yrs :10mg/kg single dose
+Adult: 500mg single dose
+<6month :not recommended
+Syp.delentin 50mg/ml .250mg/tsf(10ml bottle)
+Tab.Melphin 125mg
+Note : below 2yrs anti-helminthic drug should be use in the known case of helminthiasis.
+Tiemonium Methylsulphate: 3-6 mg/kg/day TDS
+½  TSF age <2years
+1 TSF age >2years
+Tab.viset 50mg, Syp.viset 10mg/tsf, Inj.viset 5mg/2ml
+
+Tinidazole:Tinizol 1 gm tab
+50 g/kg/day od for3-5 days
+
+Frusamide: 1-2mg/kg/dose Tab.Lasix 40mg
+ If 20 kg:1+1+0
+ If 10 kg: ½+½+0
+
+
+
+
+Nifidipine: 0.25-0.50 mg/kg/day Tab. Nifin 10mg Tab.Nifin SR 20mg
+ If 20 kg:1+1+0
+ If 10 kg: ½+½+0
+
+Phenoxymethyl Penicillin: 50 mg/kg/day Tab. Penvik 250mg Tab. Penvik DS 500mg
+ If 20 kg:1+1+1+1
+ If 10 kg: ½+½+½+½
+
+Rececadotril: 1.5 mg/kg/dose TDS. Cap. Receca 100mg, Sachet 10mg, 30mg
+Infants less than 9 kg: one 10 mg sachet 3 times daily.
+Infants from 9 kg to 13 kg: two 10 mg sachets 3 times daily.
+Children from 13 kg to 27 kg: one 30mg sachet 3 times daily.
+Children of more than 27 kg: two 30mg sachets 3 times daily.
+
+       Anti TB drugs
+●  INH: 10-15mg (10),
+Rifampicin: 10-20mg (15),
+Pyrazinamide: 30-40mg (35),
+Ethambutol: 15-25mg (20),
+Streptomycin: 12-18mg (15).
+Note: Once daily at morning empty stomach (half an hour before breakfast)
+   A. Tab. Rimcure 3FDC
+ Rifampicin-150,
+ INH-75,
+ Pyrazinamide-400mg.
+B. Tab. Rimstar 4FDC
+ Rifampicin-150mg,
+ INH-75mg,
+ Pyrazinamide-400mg,
+ Ethambutal-275mg.
+
+
+
+Ampicillin :
+ 100mg /kg/day qds
+                         cap.acmecilin 250mg, 500 mg
+                         inj.acmicillin 250mg.500mg vial
+syp.acmicillin 125mg/tsf.
+
+Amoxicillin:
+PO: 20-50mg /kg/day  tds,  I/V, I/M:50-100mg/kg/day tds (Septicaemia&Meningitis upto 100mg/kg/day)
+cap,moxacil  250mg, 500mg
+Syp.moxacil 125mg/tsf
+                      Moxacil drop 100mg/ml
+                         Inj.moxacil 250mg,500mg vial
+
+
+
+ Amoxicillin + clavulanic acid :
+ 30mg/kg/day tds
+  >12yr: 375mg/625mg TDS
+6-12yr : 2 tsf TDS
+1-6yr: 1 tsf TDS
+Syp.Moxaclav(125mg+31mg)
+  Tab.Moxaclav 375, 625, 1gm
+  Inj. Moxaclav 1.2gm
+
+Ciprofloxacin :
+15-30 mg/kg/day  bd
+                             tab.ciprocin 250mg,500mg,1gm
+                             Inj.ciprocin 200mg/100ml bag
+                             Syp.ciprocin  250mg/tsf
+
+Levofloxacin:
+PO:  5month-5yrs:  10mg/kg /dose bd
+                                   >5yrs: 10mg/kg/day    daily
+                                  Tab.trevox 500mg.750mg
+                                  Syp.trevox 125/tsf
+                                  Inj.levoxin  500mg/100ml bag
+
+Doxicycline:
+ PO: 5 mg/kg /day BD followed by 2.5mg/kg/day  qds.
+                                 Cap.doxin 100mg
+
+Flucloxacillin:  12.5 -25mg/kg/dose  qds
+cap.fluclox 250mg,500mg
+Syp.fluclox  125mg/tsf
+                             Inj.fluclox 250mg,500mg vial
+
+
+Tetracycline :
+ 25-50mg/kg/day qds
+   Cap.tetracyna 250mg,500mg
+
+
+Erythromycin:
+ PO :  50mg/kg/day  qds
+                                        Tab.eromycin 250mg,500mg
+                                        Syp.eromycin  125mg/tsf
+Azithromycin :
+  10mg/kg/day  once daily(enteric fever 20g/kg/day once daily )
+                                   Tab.zimax 250mg,500mg
+                                    Syp.zimax 200mg/tsf
+                                   Inj.zimax 500mg/bottle
+
+
+
+
+ Clarythromycin:
+  15mg/kg/day  bd.
+                                     Tab.binoclr 250mg,500mg
+                                     Syp.binoclar 125 mg/tsf
+                                     Inj.klaricid 500mg
+
+
+Amikacin:
+Neonate: I/V : 10mg/kg/day   bd
+Child: I/V  :  15-25mg/kg/day  bd-tds
+                          Inj.kacin  100mg/2ml,  200mg/2ml amp
+
+Clindamycin:
+ Neonate:  I/m,I/V :  10-15mg/kg/day  bd
+Child: 8-20 mg/kg/day TDS
+Cap.qcin 150mg.300mg
+Syp.clidax 75mg/tsf
+Inj.qcin 300mg/2ml amp. 600mg/4ml amp
+
+Cotrimoxazole:
+PO: 8mg/kg/day  bd
+Tab.cotrim 480mg,960mg
+Syp.cotrim 200mg/tsf
+
+Cephradine:
+25-50mg/kg/day  qds
+                            Cap.sefrad 250mg,500mg
+                            Syp.sefrad 125mg/tsf
+                            Sefrad drop  100mg/tsf
+                            Inj.sefrad  250mg,500mg,1gm vial
+
+
+
+Cefodroxil:
+ PO: 30mg/kg/day   bd
+                                Cap.arocef   250mg,500mg
+                                Syp.arocef   125mg/tsf
+
+
+
+
+
+Cefaclor:
+ PO: 20-40mg/kg/day  tds
+                              Cap.oticlor  250mg,500mg
+                              Syp.oticlor 125mg/tsf
+                              Oticlor drop 100mg/ml
+
+
+
+
+
+
+Cefixime:
+PO: 10mg/kg/day bd  (enteric fever 20mg/kg/day  bd )
+                               Cap.cef 3  200mg,400mg
+                               Syp.cef 3  100mg/tsf
+                               Ceftid paediatrics drop 25mg/ml
+
+Cefdoxime:
+ PO:  10mg/kg/day divided bd
+                           Tab.ximeprox  200mg
+cap.ximeprox  100mg
+syp.ximeprox 40mg/tsf
+Ximeprox drop 20mg/ml
+
+Chloroquine:
+Malaria prophylaxis: 5mg/kg/wk PO (max dose 300mg/dose).
+Uncomplicated malaria: 10mg/kg PO on D1, then 7.5mg/kg on D2-D3 + Primaquine
+on D4, 3Tab - stat (1Tab- 15mg);
+Or 10mg/kg PO on D1 then 5mg/kg on D2-D4.
+Tab. 250mg(150mg base), Syp. 80mg(50mg base)/5ml.
+
+Quinine:
+ child: po:10mg/kg /dose tds for 7days.
+                    In Short:3-9 kg :1/4 ; 10-19 kg: ½ ; 20-29 kg: 1 ;30-39 kg :1 ½ &>40 kg :2 tab tds
+ Adult: 600mg  tds for 7 days.
+       I/V: 20mg/kg infuse over 4 hours then 10mg/kg over 4hours,continue every 8-12hourly followed by
+oral quinine.
+Tab.jasoquine 300mg
+Inj.jasoquine 300mg /5ml ampule
+
+
+Sulfadoxine+pyrimethamine:
+      adult: over 14yrs:   2-3 tab single dose
+        Child : under 4 yrs   ½  tab  single  dose
+         4-8 yrs  1 tab  single dose
+            9-14 yrs 2 tab  single dose
+              Tab .malacide
+
+
+
+
+Primaquine:
+  adult: 15mg  daily for 14-21 days.
+                                Child : ½ of the adult dose.
+                                Tab.jasoprim  15mg
+
+
+
+
+Artemether + lumefantrine :
+ D1=4tab stat and 4 tab after  8hours
+ D2+D3= 4 tab 12 hourly
+    Tab.coartem
+
+
+Ivermectin:
+ 150 microgm/kg single dose and repeate after 14 day.
+                          Tab.scabu 3mg ,6mg.
+
+Fluconazole:
+  5mg/kg/day ---daily.
+                              Cap.flugal 50mg.150mg.200mg.
+                              Syp.flugal 50mg/tsf
+
+
+Nitazoxanide:
+8.5mg/kg/dose bd
+<1yrs not recommended
+  1-4yrs –1tsf  bd
+                               4-11yrs—2tsf  bd
+                               Syp.zox 100mg/tsf
+                                Tab.zox 500mg
+
+Nalidixic acid:
+ 55mg/kg/day   tds
+                                Tab.nalid 500mg.
+                                Syp.nalid 300mg/tsf
+
+Paracetamol:
+ 15mg/kg/Dose tds or qds  (In the case of liver causes given lowest dose)
+                               Tb.ace 500mg
+                               Tab.ace xr 665mg
+                               Syp.ace 120mg/tsf
+                               Ace drop 80mg/ml
+                               Ace suppository 60mg.125mg.250mg500mg.
+                               Inj.napa  1000mg/100ml bottle
+
+
+
+Domperidon:
+ 0.2-0.4mg/kg/dose –qds
+                            Tab.omidon 10mg
+                             Syp.omidon 5mg/tsf
+                             Drop omidon 5mg/ml
+                             Don a suppository 15mg.30mg
+
+
+
+
+Ketoconazole:
+ 5mg/kg/day----daily
+                              Tab.ketoral 200mg.
+
+Ondansetron:
+ I/V: each 10kg/0.5ml   tds
+                               Po:  <15kg—1/2 tsf  tds
+                                       >15kg---1 tsf  tds
+                               Inj.emistat 8mg/4ml amp
+                               Syp.emistat 4mg/tsf
+                               Tab.emistat 4mg,8mg
+Frusemide:
+  1-3mg/kg/day divided bd
+                            Tab.frusid 40mg
+                            Inj.frusid  20mg/2ml
+
+
+Spirinolactone:
+3mg/kg/day divided tds
+                               Tab.verospiron 25mg.
+
+
+Cetirizine:
+  >6yrs:   5mg twice daily or 10mg once daily.
+                          2-6yrs : 5mg daily
+                          6month-23month: 2.5mg daily
+                          Syp.alatrol  5mg/tsf
+                          Tab.alatrol 10mg
+
+
+
+
+Levocetirizine:
+ 6yrs-11yrs : 2.5mg daily
+                                 6month-5yrs: 1.25mg once daily.
+                                 Tab.alcet 5mg
+                                 Syp.alcet 2.5mg/tsf
+
+Loratidine:
+ >3yrs: >30kg :10mg/day
+                                        <30kg :5mg/day
+                            <3yrs : 5mg daily
+                             <2yrs :not recommended
+                             Tab.loratin fast 10mg
+                             Syp.loratin 5mg/tsf
+
+
+
+
+
+Desloratidine:
+ 6month-11month :1mg daily
+                                2-5 yrs: 1.25mg once daily.
+                                6-11mg: 2.5mg once daily
+                                Syp.deslor 2.5mg/tsf
+                                Tab.deslor  5mg
+
+
+Mebhydrolin :
+up to 2yrs :1-2 tab daily
+                               2-5yrs:1-3 tqb daily
+                             5-10yrs 2-4 tab daily
+                         Tab.bexidal 50mg
+
+Pheniramine :
+  1-3yrs:  ½ tsf 2-3times daily
+                                 4-12yrs:1tsf  2-3 times daily
+                                 Syp.avil 15mg/tsf
+                                Tab.avil 22.5mg
+                                Tab.avil retard 75mg
+                                Inj.avil 45.5/2ml
+
+Promethazine:
+ 2-5yrs :5-15mg  daily 1 or 2 divided dose.
+                                  5-10yrs:10-25mg  daily 1 or 2 divided dose.
+                                  Syp.Phenerex  5mg/5ml
+                                  Inj.phenerex   50mg/2ml.25mg/1ml.
+                                 Tab.phenergan 10mg,25mg
+
+
+
+
+Prednisolone :
+ 1-2mg/kg/day   divided bd-qds.
+                                 Tab.cortan 5mg,10mg,20mg
+                                 Syp.cortan 5mg/tsf
+
+Dexamethasone :
+ 0.2mg/kg/dose qds(iv,im,po)
+                                      Tab.oradexon  0. 5mg
+                                      Inj.oradexon   5mg/1ml amp
+
+Hydrocortisone :
+I/V: 10-20mg/kg/day   divided bd-qds
+                                   Shock: 50mg/kg/dose
+                                   Inj.anacort 100mg vial
+                                  Tab.cotson 10mg
+
+
+
+ Salbutamol:
+ 0.4mg/kg/day divided tds-qds.
+                            Tab.brodil 2mg.4mg
+                           Syp.brodil  2mg/tsf
+
+Levosalbutamol:
+<6yrs :1/2 tsf tds
+                                     6-11yrs: 1mg tds
+                                    Tab.brodil levo 1mg.2mg
+                                    Syp.brodil levo 1mg/tsf
+
+Aminiphylline :
+20mg/kg/day  tds
+                                  Tab.aminophylline 100mg
+                                  Inj.aminophylline 125mg/5ml amp
+
+
+Theophylline:
+ 20mg/kg/day   tds
+                                 Syp.contine  120mg/tsf
+                                Tab.contine 200mg,300mg,400mg
+
+Doxophylline:
+ 6mg/kg/day divided bd
+                               Syp.doxiva 100mg/tsf
+                              Tab.doxiva 200mg,400mg
+
+carbamazepine :
+PO:   10mg/kg/day  divided tds
+tab.tegretol 200mg
+syp.tegretol 100mg/tsf
+Ambroxol  HCL:
+                         drop:
+                                  0-6month: 7drop bd
+                                  6-12month:15drop bd
+                                  1-2 yrs: 20drop bd
+                         Syp:
+                                 2-5yrs:1/2 tsf bd-tds
+                                 5-10yrs :1tsf bd-tds
+                                 >10yrs: 2tsf tds
+                        Cap:
+                                 > 10yrs + 1 cap daily
+                         Strength:
+                             Cap.ambrox 75mg SR
+                            Syp.ambrox 15mg/tsf
+                            Drop.ambrox 6mg/ml
+
+
+
+
+Ketotifen  :
+ >2yrs :  1mg twice daily
+                            <2yrs: ½ tsf   twice daily
+                            Syp.tofen 1mg/tsf
+                            Tab.tofen 1mg
+
+
+Diazepam:
+PO:  0.5-1mg/kg/daily divided bd-tds
+                        P/R: 0.5mg/kg/dose
+                         I/V: 0.2-0.3mg/kg/dose bd-tds
+                         Tab.sedil 5mg
+                         Inj.sedil 10mg/2ml amp
+                         Easium suppository  10mg/stick
+
+Phenobarbitone:
+I/V.PO:  15-20mg/kg/stat followed by  3-4mg/kg/day neonate (bd ) &  5- 6mg/kg/day  for child (bd)
+For sedation :2mg/kg/dose
+tab.barbit 30mg
+inj.barbit 200mg/1ml amp(inj should be dissolved in 9ml distill water)
+
+phenytoin:
+PO:  15-20mg/kg stat followed by 10mg/kg/day  neonate & 10mg/kg/day  child (bd)
+tab.diphedan 100mg
+syp.diphedan 60mg/tsf
+
+sodium valproate :
+ 10mg/kg/day divided BD
+tab. Valex CR 200mg
+syp.valex 200mg/tsf
+
+Midazolam:
+ 0.15-0.2mg/kg/dose for any procedure.
+                            Tab.dormicum  7.5mg
+                            Inj.dormicum 5mg/5ml.15mg/3ml.
+
+Indomethacin:
+2.5mg/kg/day divided bd
+                                 Cap.indomet 25mg
+                                 Cap.indomet SR 75mg
+                                 Indomet supposit0ry 100mg/stick
+
+Ibuprofen:
+15mg/kg/day divided bd
+                          Tab.inflam 200mg.400mg
+                          Syp.inflam 100mg/tsf
+
+
+
+
+Naproxen:
+ 15mg/kg/day   bd
+                          Syp. Ticoflex 125mg/tsf
+                          Tab.naprosyn 250mg.500mg
+
+Ketorolac:
+2-16yrs: 0.4-1mg/kg/dose  BD/TDS
+                       Tab.torax 10mg
+
+Diclofenac:
+ 2-3mg/kg/day  BD/TDS
+                          Tab.clofenac  25mg.50mg.100mg
+                          Inj.clofenac 75mg/3ml amp
+                          Clofenac supp 12.5mg.25mg.50mg
+
+K+T:
+3mmol/kg/day divided bd
+              Syp.electro k 10mmol/tsf (mixed with 1galss water)
+
+
+Ranitidine:
+ PO:  7.5mg/kg/day  bd
+                          Neonate:PO.I/V: 1.5-2mg/kg/day  bd
+                         Child:PO.I/V: 1-5mg/kg/day tds-qds
+                         Syp.gepin 75mg/tsf
+                         Tab.gepin 150mg.300mg
+                          Inj.gepin 50mg/2ml
+ Aminocaproic acid :
+100-200mg/kg bollus foll wed by 100mg/kg/dose qds
+                               Inj.caprolysin  1gm/5ml.  2gm/10ml amp.
+
+Chlorpromazine:
+PO: 0.3mg/kg/day tds
+                                   I/M: 0.1mg/kg/dose
+                                   Tab.largactil 25mg.50mg.100mg
+                                   Syp.largactil 25mg/tsf
+                                   Inj.largactil 50mg/2ml amp
+
+Calcium gluconate :
+ PO: 200-400mg/kg/day tds-qds
+                             I/V: 1-2mg/kg/dose
+                             Tab.calcium gluconate 600mg
+   Inj.calcium gluconate 500mg/ 5ml.1gm/10ml amp
+
+
+
+
+
+
+
+Piracatam :
+ 50mg/kg/day tds
+                          tab.neulep 800mg.
+                          syp.neurolep  500mg/tsf
+
+Mannitol :
+ 0.5-1gm/kg bollus followed by  0.25-0.5/kg /dose  4-6hourly.
+                          Inf. Manisol 20% IV 500ml
+
+
+
+ Tranexamic acid:
+ 25mg/kg/dose bd-tds
+Cap.frabex 500mg
+                             Inj.frabex 250mg/5ml.500mg/5ml
+
+Clarythromycin:
+15mg/kg/day bd.
+Tab.binoclr 250mg,500mg
+Syp.binoclar 125 mg/tsf
+Inj.klaricid 5oomg
+Famotidine:
+0.5 mg/kg/dose bd. (Max Dose: 40mg/day)
+Tab. Famotack 20 mg
+Syp. Famotack 40mg/tsf
+
+
+Hydroxyzine HCL:
+1-5yr: ½ TSF BD
+ >5yr: 1 TSF TDS
+Syp. Xyril 10mg/5ml
+Tab. Xyril 25mg
+Probiotics/ Acteria Sachet
+1 Sachet mixed with ½ Cup Water..OD
+
+Chlorpheniramine Malate
+Upto 1yr: 1mg/2.5ml BD,
+1-5yr: 2mg/2.5-5ml TDS,
+>5yr: 2-4mg/5-10ml TDS.
+                           Tab.2mg,
+                           Syp. 2mg/5ml
+
+
+
+
+
+❏ Fluid Requirement:
+
+Age:
+
+Req: (ml/kg/day)
+●  Day 1  ● 60ml
+●  Day 2  ● 80ml
+●  Day 3  ● 100ml
+●  Day 4  ● 120ml
+●  Day 5  ● 140ml
+●  Day 6 to 9m ● 150ml
+●  9m- 1 yr ● 120-150ml
+●  1-2 yr  ● 100-120ml
+●  2-4 yr                          ● 90-100ml
+                ● 4-8 yr         ● 70-90ml
+                ● 8-12 yr         ● 60-70ml
+
+
+❏ For Infant & Children:  >9month
+
+❖ For 1st 10kg body wt: 100ml/kg/day.
+❖ For next 10kg body wt: add 50ml/kg/day.
+❖ Everything over 20kg body wt: add 20ml/kg/day.
+ [max: 2400ml/day]
+Example: Maintenance fluid requirement for 28kg child will be as follows-
+(100×10)ml/day+(50×10)ml/day+(20×8)ml/day =(1000+500+160)ml/day =1660ml/day.
+
+❏ Fluid to be given:
+
+Age:
+
+Fluid:  Content:
+●  Day 1  If wt: >1kg 10% DA 10% DA: 10% glucose
+If wt: <1kg 5% DA 5% DA: 5% glucose
+●  Day 2- 2years If wt: >1kg 10% DBS /Electrodex 10/ APN   APN: 10%DA + 0.225% NaCl
+If wt: <1kg Baby saline   B/S: 5%DA + 0.225% NaCl
+●  2-5 Years Baby Saline  5%DA + 0.225% NaCl
+●  >5 years Libott's Junior 5% glucose + 0.45% Na
+●  >11years  Adult fluid: 5%DNS, 5% DA, H/S, N/S)
+
+
+1. Condition requiring 20% more fluid:
+➢ Fever
+➢ Phototherapy
+➢ Burn or open wound
+2. Condition requiring 20% less fluid:
+CNS,CVS,Respiratory Cause)
+➢ Sepsis
+➢ PNA
+➢ NEC
+➢ SIADH
+➢ Meningitis
+
+**In Head Injury
+<25 kg-Baby saline
+>25 kg- N/S
+Note: Glucose Causes Cerebral Edema in Head injury.
+
+
+
+
+
+❏ Composition of ORS: (Dissolved in 500ml clean water)
+
+Components:   Grams/500ml:
+Sodium Chloride   1.30 gm
+Potassium Chloride    0.75 gm
+Tri sodium citrate dihydrate   1.45 gm
+Glucose Anhydrose   6.75 gm
+
+❏ Composition of Cholera Saline:
+
+Components:   Grams/Litre  mmol/Litre
+Na+  3.0  134
+Cl-  3.8  98
+K+  0.5  13
+Acetate  2.8  84
+
+
+❏ Some Important formula:
+
+➔ 24 Hours Fluid Requirement:
+➢ Previous day output + Insensible lose of Fluid
+
+➔ Blood Transfusion (Transfusion should be given over 4 hours)
+➢ PCV: (wt in kg × 4 × Hb Deficit) {Hb Deficit= Required Hb (10gm/dl) – Patient Hb}
+➢ Or Randomly: PCV= wt in kg × 10ml/kg
+➢ FHB: (wt in kg × 6 × Hb Deficit) {Hb Deficit=Required Hb (10gm/dl) – Patient Hb}
+➢ Or Randomly: FHB= wt in kg × 20ml/kg (Anti-coagulant  3cc/20ml blood)
+
+➔ Body surface area(BSA):
+➢ Height in cm × Wt in Kg ÷ 3600
+
+➔ Estimated Glomerular Filtration rate(GFR):
+➢ K ×  height (cm) ÷ Serum creatinine (mg/dl)
+[K= 0.43]
+➔ Spot Protein Creatinine Ratio. (If >2 suggest NS)
+➢ Urine Protein (mg) ÷ Urine Creatine (mg)
+
+
+
+➔ Serum Anion gap:
+➢ Na
++
+ - (Cl
+-
++ HCO
+3
+-
+)
+[Normal value: 6-12 mEq/L]
+
+➔ Free water deficit:
+➢ Total body water × (Na
++
+ concentration /140) -1
+[Total body water: 0.6 × wt(kg)]
+
+➔ Expected bladder capacity:
+➢ <2yr: [wt in kg × 7] ml
+➢ >2yr: [ Age in yrs+2×30] ml
+
+➔ Plasma osmolarity:
+➢ 2(Na
++
+) + BUN(mg/dl) ÷ 2.8 + glucose ÷ 18
+                            [Normal : 280-285 mOsm/kg]
+
+➔ Amount of fluid for drop:
+➢ Amount of fluid ÷ (4 × hour)
+➢ For Maintain 24 hours: যে ে ml েে Drop/min (Ex: 1000ml @10d/min)
+
+➔ Amount of fluid for micro drop:
+➢ Amount of fluid ÷ hour.
+
+➔ Nebulization with Windel Plus (2.5mg+500mcg) 2.5ml
+➢ Wt×0.1 ml TDS/QDS
+<1year= 0.5ml+1.5ml N/S stat & QDS
+1-4 years = 1ml+ 2ml N/S stat & QDS
+>4 years = 1amp stat & QDS
+
+➔ Nebulization with Budicort 0.5mg/2ml
+➢ Neonate(<2month)
+Wt×0.5 ml +1ml N/S stat & BD/QDS
+
+
+
+
+❖ 3mt-12mt: Age in month + 9÷2
+❖ 1yr-10yrs: Age in year+ 4 × 2
+
+❏
+
+Easy to count weight:
+
+Nebulition with
+ WindelPlus :  Wt×0.1 ml
+ Budicort :  Wt×0.5 ml
+N/S  :  1-2 ml
+                Stat and 8 hourly
+
+       Or
+
+Nebulition with
+ Sultolin Solution    :  Wt×0.03 ml
+ Iprex       :  Wt×0.1 ml
+N/S       :  1-2 ml
+                Stat and 6 hourly
+
+Note: Make Total 3ml fluid
+
+
+
+
+
+
+(Biomeal, Lactogen)
+Upto 6 month : I
+Upto 1 yrs : II
+>1 yrs : III
+In case of acute watery diarrhoea give lactogen
+free milk (Gastro-fix, Baby Luck FL)
+দনেম: ৬ চামচ পাদনর সায়থ ১ চামচ িুয (বাচ্চার প্রয়োজন অনুযােী)
+
+
+Parkland Formula: 4 × Percentage of burn × Weight
+Then give Half Amount 1
+st
+ 8 Hour’s
+Then Give another Half amount next 16 Hour’s
+For baby/child (weight <30kg): Parkland Formula+ Maintenance fluid (Baby Saline)
+
+For Baby/child: Baby saline
+For Adult: H/S
+
+** Randomly: শরাগীর হায়ের োেুর অংে ১% যরা হে।
+
+
+❏
+
+Formula Feeding
+
+❏
+
+Burn Fluid Management
+
+Download QuickRx Apps from PlayStore
+QuickRx is a complete Patient Management Guideline Software
+If any Typing Mistake Please contact with Us via Whats APP/ Call: 01623-875729
+
+
+
+
+
+wkï‡`i wbqwgZ wUKv`vb mgqm~wP: EPI Schedule in Bangladesh
+
+†iv‡Mi bvg  wUKvi bvg
+wUKvi
+†WvR
+†Wv‡Ri
+msL ̈v
+†Wv‡Ri g‡a ̈
+b~ ̈bZg weiwZ
+wUKv †`qvi
+mwVK mgq
+wUKv`v‡bi  ̄v’b
+wUKvi cÖ‡qvM
+c_
+h²v  wewmwR
+0.05
+Gg Gj
+1  -  R‡b¥i ci †_‡K
+evg evûi
+Dc‡ii As†k
+Pvgovi g‡a ̈
+wWd‡_wiqv,
+ûwcsKvwk,
+abyósKvi,
+†ncvUvBwUm-we,
+wn‡gvdvBjvm Bbd¬‡zqÄv we
+†c›Uvf ̈v‡j›U
+wUKv (wWwcwU,
+†ncvUvBwUm-
+we, wne)
+0.5 Gg
+Gj
+3  4 mßvn
+6 mßvn
+10 mßvn
+14 mßvn
+evg Diæi
+ga ̈fv‡Mi
+ewnivs‡k
+gvsm‡ckx
+wbD‡gvK°vj wbD‡gvwbqv  wcwmwf wUKv
+0.5 Gg
+Gj
+3  4 mßvn
+6 mßvn
+10 mßvn
+14 mßvn
+Wvb Diæi
+ga ̈fv‡Mi
+ewnivs‡k
+gvsm‡ckx
+†cvwjIgvBjvBwUm
+weIwcwf
+2
+†duvUv
+3  4 mßvn
+6 mßvn
+10 mßvn
+14 mßvn
+g‡yL  g‡yL
+AvBwcwf
+(dv«Kkbvj)
+0.1 Gg
+Gj
+2  8 mßvn
+6 mßvn  14
+mßvn
+Wvb evûi
+Dc‡ii As†k
+Pvgovi g‡a ̈
+nvg I iæ‡ejv  GgAvi wUKv
+0.5 Gg
+Gj
+2  -
+9 gvm I 15
+gvm eqm c~Y©
+n‡j
+Wvb Diæi
+ga ̈fv‡Mi
+ewnivs‡k
+Pvgovi bx‡P
+
+
+
+15-49 eQi eq‡mi gwnjv‡`i wUKv`vb mgqm~wP
+
+†iv‡Mi bvg  wUKvi bvg
+wUKvi
+†WvR
+†Wv‡Ri msL ̈v  wUKv ïiæ Kivi mwVK mgq
+wUKv`v‡bi
+ ̄’vb
+wUKvi
+c‡ÖqvM c_
+abyósKvi
+wUwU (wU‡Ubvm
+U·‡qW)
+0.5 Gg
+Gj
+wUwU-1  15 eQi eqm n‡jB h_vkxNÖ
+evûi
+Dc‡ii
+As‡k
+gvsk‡ckx
+wUwU-2  wUwU-1 cvIqvi Kgc‡¶ 28 w`b ci
+wUwU-3  wUwU-2 cvIqvi Kgc‡¶ 6 gvm ci
+wUwU-4  wUwU-3 cvIqvi Kgc‡¶ 1 ermi ci
+wUwU-5  wUwU-4 cvIqvi Kgc‡¶ 1 ermi ci
+
+
+m¤cÖmvwiZ wUKv`vb Kg©m~wP (BwcAvB)
+ ̄^v ̄’ ̈ Awa`ßi
+             MYcÖRvZš¿x evsjv‡`k miKvi
