@@ -68,5 +68,352 @@
     "frequency": "Stat",
     "calculation_shortcut": "wt x 0.1 ml (+3ml D/W, N/S) (P/R)",
     "special_instructions": "Not Recommended 0-3 mnth. Cardio-respiratory Distress করে। Through rubber tube."
+  },
+  
+{
+    "id": "flucloxacillin_iv",
+    "generic_name": "Flucloxacillin",
+    "brand_names": ["Fluclox", "Flux", "Phylopen"],
+    "formulations": ["250mg/2.5ml", "500mg/5ml", "1gm"],
+    "dose_guideline": "50-100mg/kg/day",
+    "frequency": "TDS",
+    "calculation_shortcut": "wt x 0.5 ml",
+    "special_instructions": "For 25 mg/kg/dose: wt x 0.25 ml + 5 D/W - QDS"
+  },
+  {
+    "id": "ampicillin_iv",
+    "generic_name": "Ampicillin",
+    "brand_names": ["Pen-A", "Ampirex", "Ampexin"],
+    "formulations": ["250mg", "500mg"],
+    "dose_guideline": "Neonate: 50mg/kg/day, Children: 100mg/kg/day",
+    "frequency": "BD",
+    "calculation_shortcut": null,
+    "special_instructions": ""
+  },
+  {
+    "id": "cefotaxime_iv",
+    "generic_name": "Cefotaxime",
+    "brand_names": ["Maxcef", "Cefotax", "Taxim"],
+    "formulations": ["250mg/5ml", "500mg/10ml", "1gm/20ml"],
+    "dose_guideline": "60mg/kg/dose",
+    "frequency": "<7 days: BD, >7 days: TDS",
+    "calculation_shortcut": "(wt x 1) ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "cefuroxime_iv",
+    "generic_name": "Cefuroxime",
+    "brand_names": ["Cefotil", "Sefur", "Kilbac"],
+    "formulations": ["750mg/10ml", "1.5gm"],
+    "dose_guideline": "Neonate: 40-100mg/kg/day, Children: 200-240mg/kg/day",
+    "frequency": "Neonate: BD, Children: TDS",
+    "calculation_shortcut": "Neonate: (wt x 0.4 ml), Children: (wt x 0.9 ml)",
+    "special_instructions": ""
+  },
+  {
+    "id": "vancomycin_iv",
+    "generic_name": "Vancomycin",
+    "brand_names": ["Vancomin", "Covan"],
+    "formulations": ["500mg/10ml", "1gm/20ml"],
+    "dose_guideline": "60mg/kg/day (Meningitis: 15mg/kg/dose)",
+    "frequency": "TDS",
+    "calculation_shortcut": "wt x 0.4ml",
+    "special_instructions": "Child: wt x 0.4ml + 20 ml DW. Total 20ml বানাতে হবে।"
+  },
+  {
+    "id": "ciprofloxacin_iv",
+    "generic_name": "Ciprofloxacin",
+    "brand_names": ["Ciprocin", "Cipro", "Neofloxin"],
+    "formulations": ["200mg/100ml"],
+    "dose_guideline": "15-20mg/kg/day",
+    "frequency": "BD",
+    "calculation_shortcut": "(wt x 5 ml)",
+    "special_instructions": "I/V @যত ml তত µd/min ১ ঘন্টার মধ্যে শেষ করতে হবে"
+  },
+  {
+    "id": "metronidazole_iv",
+    "generic_name": "Metronidazole",
+    "brand_names": ["Filmet", "Metro", "Amodis"],
+    "formulations": ["500mg/100ml"],
+    "dose_guideline": "15-20mg/kg/day",
+    "frequency": "TDS",
+    "calculation_shortcut": "(wt x 1.5 ml)",
+    "special_instructions": ""
+  },
+  {
+    "id": "hydrocortisone_iv",
+    "generic_name": "Hydrocortisone",
+    "brand_names": ["Cotson", "Glucort"],
+    "formulations": ["100mg/2ml"],
+    "dose_guideline": "5 mg/kg/dose",
+    "frequency": "BD/TDS/QDS",
+    "calculation_shortcut": "(wt x 0.1 ml)",
+    "special_instructions": ""
+  },
+  {
+    "id": "furosemide_iv",
+    "generic_name": "Furosemide",
+    "brand_names": ["Lasix", "Fusid"],
+    "formulations": ["20mg/2ml"],
+    "dose_guideline": "1-2mg/kg/dose",
+    "frequency": "BD (8 AM & 4 PM)",
+    "calculation_shortcut": "(wt x 0.1 ml)",
+    "special_instructions": ""
+  },
+  {
+    "id": "dexamethasone_iv",
+    "generic_name": "Dexamethasone",
+    "brand_names": ["Roxadex", "Decason"],
+    "formulations": ["5 mg/ml"],
+    "dose_guideline": "0.15-0.4mg/kg/dose (Meningitis)",
+    "frequency": "<3 months: BD, >3 months: TDS/QDS",
+    "calculation_shortcut": "<3 months: (wt x 0.08 ml), >3 months: (wt x 0.03 ml)",
+    "special_instructions": ""
+  },
+
+  
+{
+    "id": "amoxicillin_syp",
+    "generic_name": "Amoxicillin",
+    "brand_names": [],
+    "formulations": ["125 mg / 5ml"],
+    "dose_guideline": "20-50 mg/kg/day",
+    "frequency": "TDS",
+    "calculation_shortcut": "(wt / 8) * 5 ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "amoxicillin_clavulanic_syp",
+    "generic_name": "Amoxicillin + Clavulanic Acid",
+    "brand_names": [],
+    "formulations": ["125+31.25mg / 5ml"],
+    "dose_guideline": "20-50 mg/kg/day",
+    "frequency": "TDS",
+    "calculation_shortcut": "(wt / 8) * 5 ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "cefpodoxime_syp_table1",
+    "generic_name": "Cefpodoxime",
+    "brand_names": [],
+    "formulations": ["40 mg / 5ml"],
+    "dose_guideline": "10 mg/kg/day",
+    "frequency": "BD",
+    "calculation_shortcut": "(wt / 8) * 5 ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "cephradine_syp",
+    "generic_name": "Cephradine",
+    "brand_names": [],
+    "formulations": ["125 mg / 5ml"],
+    "dose_guideline": "50-100 mg/kg/day",
+    "frequency": "TDS",
+    "calculation_shortcut": "(wt / 8) * 5 ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "flucloxacilline_syp",
+    "generic_name": "Flucloxacilline",
+    "brand_names": [],
+    "formulations": ["125 mg / 5ml"],
+    "dose_guideline": "50-100 mg/kg/day",
+    "frequency": "QDS",
+    "calculation_shortcut": "(wt / 8) * 5 ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "paracetamol_syp",
+    "generic_name": "Paracetamol",
+    "brand_names": [],
+    "formulations": ["120 mg / 5ml"],
+    "dose_guideline": "15 mg/kg/dose",
+    "frequency": "TDS/QDS",
+    "calculation_shortcut": "(wt / 8) * 5 ml",
+    "special_instructions": ""
+  },
+
+  {
+    "id": "azithromycin_syp",
+    "generic_name": "Azithromycin",
+    "brand_names": [],
+    "formulations": ["200 mg / 5ml"],
+    "dose_guideline": "10mg/kg/day (Enteric Fever 20mg/kg/day)",
+    "frequency": "OD",
+    "calculation_shortcut": "(wt / 10) * 2.5 ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "cefixime_syp",
+    "generic_name": "Cefixime",
+    "brand_names": [],
+    "formulations": ["100 mg / 5ml"],
+    "dose_guideline": "10mg/kg/day (Enteric Fever 20mg/kg/day)",
+    "frequency": "BD",
+    "calculation_shortcut": "(wt / 10) * 2.5 ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "ciprofloxacin_syp",
+    "generic_name": "Ciprofloxacin",
+    "brand_names": [],
+    "formulations": ["250 mg / 5ml"],
+    "dose_guideline": "15-30 mg/kg/day",
+    "frequency": "BD",
+    "calculation_shortcut": "(wt / 10) * 2.5 ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "metronidazole_syp",
+    "generic_name": "Metronidazole",
+    "brand_names": [],
+    "formulations": ["200 mg / 5ml"],
+    "dose_guideline": "15-30 mg/kg/day",
+    "frequency": "TDS",
+    "calculation_shortcut": "(wt / 10) * 2.5 ml",
+    "special_instructions": ""
+  },
+
+  {
+    "id": "acyclovir_syp",
+    "generic_name": "Acyclovir",
+    "brand_names": [],
+    "formulations": ["200 mg / 5ml"],
+    "dose_guideline": "20 mg/kg/day",
+    "frequency": "QDS",
+    "calculation_shortcut": "(wt / 10) * 5 ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "erythromycin_syp",
+    "generic_name": "Erythromycin",
+    "brand_names": [],
+    "formulations": ["125 mg / 5ml"],
+    "dose_guideline": "40-50 mg/kg/day",
+    "frequency": "QDS",
+    "calculation_shortcut": "(wt / 10) * 5 ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "ibuprofen_syp",
+    "generic_name": "Ibuprofen",
+    "brand_names": [],
+    "formulations": ["100 mg / 5ml"],
+    "dose_guideline": "15-20 mg/kg/day",
+    "frequency": "BD/TDS",
+    "calculation_shortcut": "(wt / 10) * 5 ml",
+    "special_instructions": ""
+  },
+  {
+    "id": "levofloxacin_syp",
+    "generic_name": "Levofloxacin",
+    "brand_names": [],
+    "formulations": ["125 mg / 5ml"],
+    "dose_guideline": "10-20 mg/kg/day",
+    "frequency": "OD",
+    "calculation_shortcut": "(wt / 10) * 5 ml",
+    "special_instructions": ""
+  },
+
+  {
+    "id": "cefaclor_drop",
+    "generic_name": "Cefaclor",
+    "brand_names": [],
+    "formulations": ["100 mg / ml"],
+    "dose_guideline": "20-40 mg/kg/day",
+    "frequency": "BD/TDS",
+    "calculation_shortcut": "wt * 2 drops",
+    "special_instructions": ""
+  },
+  {
+    "id": "cefpodoxime_drop",
+    "generic_name": "Cefpodoxime",
+    "brand_names": [],
+    "formulations": ["20 mg / ml"],
+    "dose_guideline": "10 mg/kg/day",
+    "frequency": "BD",
+    "calculation_shortcut": "wt * 4 drops",
+    "special_instructions": ""
+  },
+  {
+    "id": "domperidone_drop",
+    "generic_name": "Domperidone",
+    "brand_names": [],
+    "formulations": ["5 mg / ml"],
+    "dose_guideline": "0.2-0.4 mg/kg/day",
+    "frequency": "TDS",
+    "calculation_shortcut": "wt * 1 drops",
+    "special_instructions": ""
+  },
+  {
+    "id": "furosemide_drop",
+    "generic_name": "Furosemide",
+    "brand_names": ["Lasix", "Fusid"],
+    "formulations": ["8 mg / ml"],
+    "dose_guideline": "1-4 mg/kg/day",
+    "frequency": "OD",
+    "calculation_shortcut": "wt * 8 drops",
+    "special_instructions": "8 drops = 0.5 ml"
+  },
+  {
+    "id": "iron_polymaltose_drop",
+    "generic_name": "Iron Polymaltose Complex",
+    "brand_names": [],
+    "formulations": ["50 mg / ml"],
+    "dose_guideline": "1-3 mg/kg/day",
+    "frequency": "OD",
+    "calculation_shortcut": "wt * 1 drops",
+    "special_instructions": ""
+  },
+  {
+    "id": "paracetamol_drop",
+    "generic_name": "Paracetamol",
+    "brand_names": ["Napa", "Ace"],
+    "formulations": ["80 mg / ml"],
+    "dose_guideline": "10-15 mg/kg/day",
+    "frequency": "TDS/QDS",
+    "calculation_shortcut": "wt * 3 drops",
+    "special_instructions": "3 drops = 0.2 ml"
+  },
+  {
+    "id": "ranitidine_drop",
+    "generic_name": "Ranitidine",
+    "brand_names": [],
+    "formulations": ["15 mg / ml"],
+    "dose_guideline": "2-4 mg/kg/day",
+    "frequency": "BD",
+    "calculation_shortcut": "wt * 3 drops",
+    "special_instructions": "3 drops = 0.2 ml"
+  },
+  {
+    "id": "cefixime_drop",
+    "generic_name": "Cefixime",
+    "brand_names": [],
+    "formulations": ["25 mg / ml"],
+    "dose_guideline": "10 mg/kg/day (Enteric Fever 20mg/kg/day)",
+    "frequency": "BD",
+    "calculation_shortcut": "wt * 3 drops",
+    "special_instructions": "3 drops = 0.2 ml"
+  },
+  {
+    "id": "amoxicillin_drop",
+    "generic_name": "Amoxicillin",
+    "brand_names": ["Moxacil"],
+    "formulations": ["125 mg / 1.2ml"],
+    "dose_guideline": "20-50 mg/kg/day",
+    "frequency": "TDS",
+    "calculation_shortcut": "(wt * 2) + 2 drops",
+    "special_instructions": ""
+  },
+  {
+    "id": "simethicone_drop",
+    "generic_name": "Simethicone",
+    "brand_names": ["Flacol", "Pedigas"],
+    "formulations": ["67 mg / ml"],
+    "dose_guideline": "<2yrs: 20mg/dose, >2yrs: 40mg/dose",
+    "frequency": "TDS/QDS",
+    "calculation_shortcut": null,
+    "special_instructions": "<2years: 5 drops (0.3ml). >2years: 10 drops (0.6ml)."
   }
+
 ]
